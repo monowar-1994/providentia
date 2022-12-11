@@ -1,0 +1,8 @@
+*.json
+*.pdf
+*.dot
+__pycache__
+*.txt
+cfg_code/
+.ipynb
+trash.py
